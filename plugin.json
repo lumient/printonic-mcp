@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "printonic",
+  "version": "1.0.0",
+  "description": "Print-on-demand catalog, listings, and fulfillment for AI agents.",
+  "author": {
+    "name": "Printonic",
+    "url": "https://printonic.com"
+  },
+  "homepage": "https://platform.printonic.com",
+  "license": "MIT",
+  "keywords": [
+    "print-on-demand",
+    "mcp",
+    "listings",
+    "fulfillment",
+    "catalog"
+  ]
+}

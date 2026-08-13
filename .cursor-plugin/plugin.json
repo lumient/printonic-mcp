@@ -1,0 +1,19 @@
+{
+  "name": "printonic",
+  "displayName": "Printonic",
+  "version": "1.0.0",
+  "description": "Print-on-demand catalog, listings, and fulfillment for AI agents.",
+  "author": {
+    "name": "Printonic"
+  },
+  "homepage": "https://platform.printonic.com",
+  "license": "MIT",
+  "keywords": [
+    "print-on-demand",
+    "mcp",
+    "listings",
+    "fulfillment",
+    "catalog"
+  ],
+  "logo": "assets/printonic-icon-512.png"
+}

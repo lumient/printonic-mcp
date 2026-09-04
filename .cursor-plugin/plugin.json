@@ -1,8 +1,8 @@
 {
   "name": "printonic",
   "displayName": "Printonic",
-  "version": "1.0.0",
-  "description": "Print-on-demand catalog, listings, and fulfillment for AI agents.",
+  "version": "1.1.0",
+  "description": "Print-on-demand catalog, listings, orders, and fulfillment for AI agents.",
   "author": {
     "name": "Printonic"
   },

@@ -6,6 +6,7 @@ Print-on-demand catalog, listings, and fulfillment for AI agents.
 
 This is a public-ready [Agent Plugin](https://agent-plugins.org/) that connects Cursor (and other Agent Plugin clients) to Printonic’s hosted MCP server.
 
+- **Website:** [https://printonic.com](https://printonic.com)
 - **Docs:** [https://platform.printonic.com](https://platform.printonic.com)
 - **MCP (Streamable HTTP):** [https://platform.printonic.com/mcp](https://platform.printonic.com/mcp)
 - **Official MCP Registry:** `com.printonic/printonic` `1.0.0`

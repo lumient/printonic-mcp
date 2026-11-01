@@ -3,8 +3,8 @@
   "name": "com.printonic/printonic",
   "title": "Printonic",
   "description": "Print-on-demand catalog, listings, and fulfillment for AI agents.",
-  "websiteUrl": "https://platform.printonic.com",
-  "version": "1.0.0",
+  "websiteUrl": "https://printonic.com",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",

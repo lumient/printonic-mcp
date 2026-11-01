@@ -1,12 +1,12 @@
 {
   "name": "printonic",
   "displayName": "Printonic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print-on-demand catalog, listings, and fulfillment for AI agents.",
   "author": {
     "name": "Printonic"
   },
-  "homepage": "https://platform.printonic.com",
+  "homepage": "https://printonic.com",
   "license": "MIT",
   "keywords": [
     "print-on-demand",
